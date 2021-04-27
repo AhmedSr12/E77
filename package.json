@@ -1,0 +1,32 @@
+{
+  "name": "e7_1600187",
+  "version": "0.0.0",
+  "description": "E7_1600187",
+  "main": "app.js",
+  "author": "Ahmed Mahmoud",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "keywords": [],
+  "license": "ISC",
+  "dependencies": {
+    "again": "^0.0.1",
+    "body-parser": "^1.19.0",
+    "ejs": "^3.1.6",
+    "express": "^4.17.1",
+    "heroku": "^7.2.0",
+    "joi": "^17.4.0",
+    "morgan": "^1.10.0"
+  },
+  "engines": {
+    "node": "14.x"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AhmedSr12/E77.git"
+  },
+  "bugs": {
+    "url": "https://github.com/AhmedSr12/E77/issues"
+  },
+  "homepage": "https://github.com/AhmedSr12/E77#readme"
+}
